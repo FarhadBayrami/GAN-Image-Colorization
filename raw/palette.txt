@@ -1,0 +1,12 @@
+Hair/shirt Colors:
+   * Blue: #3FAEE1
+   * Brown: #BA6B4B
+   * Red: #E84744
+   * Yellow: #FBD04F
+   * Green: #6FBB84
+
+Fix Colors:
+   * Skin: #FBD3C2
+   * Cheek: #F39E9C
+   * Border: #000000
+
