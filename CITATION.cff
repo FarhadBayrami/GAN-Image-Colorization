@@ -1,20 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this dataset in your research, please cite it as below."
+message: "If you use this software or dataset, please cite it as below."
+title: "Attribute-Conditioned Sketch Colorization with a Conditional pix2pix GAN"
 authors:
-  - family-names: Bayrami
-    given-names: Farhad
-    email: farhad.bayrami@studio.unibo.it
-    affiliation: University of Bologna
-title: "Attribute-Conditioned Sketch Colorization Dataset"
-version: 1.0.0
-date-released: 2025-01-01
+  - family-names: "Bayrami"
+    given-names: "Farhad"
+    email: "farhad.bayrami@studio.unibo.it"
+date-released: 2025
 url: "https://github.com/FarhadBayrami/GAN-Image-Colorization"
 license: MIT
-keywords:
-  - image colorization
-  - conditional GAN
-  - pix2pix
-  - image-to-image translation
-  - sketch colorization
-  - dataset
-  - deep learning

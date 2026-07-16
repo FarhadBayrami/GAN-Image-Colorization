@@ -1,4 +1,16 @@
-opencv-python>=4.8
 numpy>=1.24
 pandas>=2.0
+matplotlib>=3.7
+opencv-python>=4.8
+Pillow>=10.0
 jupyter
+tqdm>=4.65
+
+# Model training
+torch>=2.2
+torchvision>=0.17
+torchtext>=0.17
+torchmetrics>=1.3
+
+# Optional: experiment tracking (set wandb_enable=True in the training notebook)
+wandb
